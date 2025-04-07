@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Randolio'
+author 't5.prime'
 description 'Pickpocketing'
 
 shared_scripts { '@ox_lib/init.lua', 'config.lua', }
